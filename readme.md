@@ -108,3 +108,6 @@ Dit script wordt aangeboden onder een **MIT**-licentie, wat betekent dat je het 
 
 ---
 
+## 🔗 Discord
+
+Om dit script te kunnen verkrijgen zou je onze discord moeten betreden. https://discord.gg/kcwrBYDugq
